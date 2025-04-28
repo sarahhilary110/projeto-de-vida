@@ -11,7 +11,7 @@
 body {
     font-size: 1rem;
     font-family: 'Montserrat';
-    background-color: #d3c6c6;
+    background-color: #fa0fdb;
 }
 
 header {
@@ -104,7 +104,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #d62888a1;
+    background-color: lch(54.4% 81.31 353.75 / 0.631);
 
 }
 
