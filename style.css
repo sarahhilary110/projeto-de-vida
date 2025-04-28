@@ -200,3 +200,7 @@ h2 {
 .alto-contraste .fundo-galeria {
     background: none;
 }
+
+.pinto { 
+    font-size: 26px;
+    color: rgb(255, 0, 55); } 
